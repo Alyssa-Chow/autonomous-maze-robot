@@ -1,4 +1,5 @@
 Autonomous Maze-Navigating Robot
+
 An autonomous ground robot built with a Raspberry Pi, developed as part of the Global Emergency Autonomous Response System (GEARS) project. The robot navigates a simulated disaster zone maze, detects and avoids environmental hazards, generates a path map, and delivers a cargo payload to a target destination.
 What it does:
 
